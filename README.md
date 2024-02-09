@@ -1,7 +1,7 @@
 # BinaryConverter
-A binary and denary conversion program using python.
+A binary and denary conversion program using python. I defined many functions to streamline the process at the end of thep program.
 
-#Here is the code below:
+# Here is the code snippet below:
 
 ```python
 #      _       _        _       ____  _                           ____                          _            
